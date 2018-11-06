@@ -1,0 +1,1 @@
+Move the AutoLight folder here into your arduino libraries folder. Then put this folder into your Arduino folder.

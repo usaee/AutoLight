@@ -1,7 +1,7 @@
 #include <AutoLight.h>
 
 
-//WARNING!!! ---> MAKE SURE THE RELAY IS NOT ATTACHED TO ANY HIGH VOLTAGE POWER SOURCE!!! VOLTAGES OF 120V AND OVER CAN KILL YOU!!!
+//WARNING!!! ---> FOR THOSE UNFAMILIAR WITH ELECTRICITY, MAKE SURE THE RELAY IS NOT ATTACHED TO ANY HIGH VOLTAGE!!! VOLTAGES OF 120V AND OVER CAN KILL YOU!!!
 //Always refer to the data sheet for your specific relay!
 
 //Before starting, safely remove all loads and power sources from the relay device!
